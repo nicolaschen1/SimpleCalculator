@@ -1,0 +1,16 @@
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe.config
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.pdb
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Form1.resources
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Properties.Resources.resources
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csproj.GenerateResource.Cache
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.exe
+c:\users\helios\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe.config
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Form1.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Properties.Resources.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csproj.GenerateResource.Cache
